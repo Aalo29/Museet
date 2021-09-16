@@ -23,6 +23,7 @@ class Program
     {
         Console.Clear();
         Console.WriteLine("You are in the Exhibitionroom 1\n");
+        Console.WriteLine("Very nice!\n");
         Console.WriteLine("[A] Go to Entrance");
         Console.WriteLine("[1] Look at sculpture");
         char choice = GetChoice();
