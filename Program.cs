@@ -2,7 +2,7 @@
 
 class Program
 {
-    static string currentRoom = "entrance";
+    static string currentRoom = "ex1";
 
     public static void Main()
     {
